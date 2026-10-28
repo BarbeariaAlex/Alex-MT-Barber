@@ -42,7 +42,7 @@ const produtos = [
 ======================================== */
 
 const pastaImagens = "img/";
-const telefoneWhatsApp = "5562981047284";
+const telefoneWhatsApp = "556299985261";
 
 function criarLinkWhatsApp(produto) {
     const mensagem = `Olá! Tenho interesse em ${produto}. Poderia me passar mais informações?`;
